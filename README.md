@@ -4,7 +4,6 @@ Readme
 The script run_analysis.R will clean, merge and analyse the UCI Data on Human Activity Recognition Using Smartphones into a 
 smaller data set of averages. For more information on the input data see
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-This R code will transform the UCI Data on Human Activity Recognition Using Smartphones into a Tidy Data Set. More information on the data set can be obtained from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones and 
 
 ### The Input Data
 The raw input data used for this script can be found at
